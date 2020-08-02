@@ -1,5 +1,5 @@
 /**************************************************************
- Author's Panther ID: 3276301
+ Author: Megan Jane Thompson
  Purpose: This program creates an array of integers. It has a
  		  function to search for a given value and returns the 
  		  value's index if found or returns -1 if not found.
