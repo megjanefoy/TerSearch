@@ -3,8 +3,6 @@
  Purpose: This program creates an array of integers. It has a
  		  function to search for a given value and returns the 
  		  value's index if found or returns -1 if not found.
- Certification: I hereby certify that this work is my own
-   		  and none of it is the work of any other person.
 **************************************************************/
 public class TerSearch {
     /*
